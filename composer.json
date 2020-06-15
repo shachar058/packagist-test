@@ -1,0 +1,10 @@
+{
+    "name": "shachar058/just-a-test",
+    "type": "test-type",
+    "description": "just for a test",
+    "authors": [
+    {
+      "name": "Clinikal team"
+    }
+    ]     
+}
